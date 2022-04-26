@@ -7,7 +7,7 @@ import { ProgressBar } from "react-native-paper";
 import Timing from "./Timing";
 import { useKeepAwake } from "expo-keep-awake";
 
-const DEFAULT_TIME = 0.1;
+const DEFAULT_TIME = 10;
 
 const Timer = ({ focusedSubject, onTimerEnd, clearSubject }) => {
 	useKeepAwake();
