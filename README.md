@@ -5,3 +5,8 @@ This is a cross platform app developed with react-native. In this app anyone can
 ## Technology use to build this app
 
 - React native expo
+
+
+
+https://user-images.githubusercontent.com/71924916/165268826-e132ec7f-e38b-4092-bee4-3eac54e735b7.mp4
+
